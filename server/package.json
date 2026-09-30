@@ -5,7 +5,8 @@
   "main": "main.js",
   
   "scripts": {
-    "dev" : "nodemon"
+    "dev" : "nodemon",
+    "build": "tsc"
   },
   "nodemonConfig":{
      "watch": [
